@@ -1,0 +1,22 @@
+td{
+    width: 100px;
+}
+
+td.Title{
+font-size: 70px;
+width: 1500px;
+font-family: 'Roboto' , sans-serif;
+font-weight: bold;
+}
+
+td.Smaller{
+    text-align: center;
+    font-family: 'Roboto' , sans-serif;
+    width: 50%
+}
+
+img.img{
+    margin-left: 10in;
+    height: 50%;
+    width: 50%;
+}
